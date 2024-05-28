@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243312983218",
+    "project_id": "graduation-project-6e1a9",
+    "storage_bucket": "graduation-project-6e1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243312983218:android:5e37f3c30624dc32379dab",
+        "android_client_info": {
+          "package_name": "com.example.satan.nfcattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoWQZiYoM-9VCgkfGhMJe3DEl2BQemoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
